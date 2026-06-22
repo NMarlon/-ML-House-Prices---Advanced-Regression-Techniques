@@ -1,0 +1,22 @@
+{
+  "original_rows": 1460,
+  "clean_rows": 1449,
+  "columns": 219,
+  "removed_columns": [
+    "Alley",
+    "PoolQC",
+    "Fence",
+    "MiscFeature"
+  ],
+  "outliers_removed": 11,
+  "new_features": [
+    "TotalSF",
+    "TotalBath",
+    "HouseAge",
+    "RemodAge",
+    "HasPool",
+    "HasGarage"
+  ],
+  "skew_before": 1.5472,
+  "skew_after": 0.0514
+}
